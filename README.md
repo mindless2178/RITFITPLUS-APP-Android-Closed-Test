@@ -7,7 +7,7 @@ Internal test distribution channel for RITFIT+ Android APK.
 Always points to the latest release:
 
 ```
-https://github.com/mindless2178/RITFITPLUS-APP-Android-Closed-Test/releases/latest/download/RITFIT__1.0.0.apk
+https://github.com/mindless2178/RITFITPLUS-APP-Android-Closed-Test/releases/latest/download/RITFIT.apk
 ```
 
 > Note: keep the asset filename consistent across releases (e.g. always `RITFIT__1.0.0.apk` → `RITFIT__1.0.1.apk` is fine but the `latest/download` path matches by exact filename — see GitHub docs).
